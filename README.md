@@ -1,4 +1,7 @@
-<h1 align="center">Chemistry Coordinate Mapping (CCM)</h1>
+> [!IMPORTANT]
+> **This is the original CCM repository: a chemisry acceleration framework developed by the research group of Xue-Song Bai at Lund University.** It has been renamed to **Chemistry_Acceleration_LU**, because the original CCM repository name will be used by another repository that hosts development funded by ongoing and pending projects.
+
+<h1 align="center">Chemistry Acceleration on OpenFOAM-14</h1>
 <p align="center"><em>Bai's group, The Department of Energy Sciences, Lund University</em></p>
 <p align="center"><strong>✈️ Chemistry shouldn't be the bottleneck anymore.</strong></p>
 
